@@ -9,5 +9,3 @@ It is where you will find information about the application and its purpose.
 You will find a personalized page displaying user-specific data and settings.
 #Component
 You will find a file of a navbar with the links of home,about and profile pages
-#Pages
-It is where you will find file like home page,about page and profile page
